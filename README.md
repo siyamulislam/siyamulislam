@@ -17,9 +17,9 @@
 
 ### Connect With Me
 
-[<img align="left" alt="Johannes Milke | Website" width="28px" src="https://visualpharm.com/assets/892/Website-595b40b65ba036ed117d3f78.svg?alt=media" />][website]
-[<img align="left" alt="Johannes Milke | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
-[<img align="left" alt="Johannes Milke | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
+[<img align="left" alt="Johannes Milke | Website" width="28px" src="https://cdn-icons-png.flaticon.com/512/975/975645.png?alt=media" />][website]
+[<img align="left" alt="Johannes Milke | YouTube" width="28px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png?alt=media" />][youtube]
+[<img align="left" alt="Johannes Milke | Twitter" width="28px" src="https://cdn-icons-png.flaticon.com/512/733/733579.pngalt=media" />][twitter]
 [<img align="left" alt="Johannes Milke | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
 
 
