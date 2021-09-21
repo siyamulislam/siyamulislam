@@ -16,10 +16,10 @@
 
 ### Connect With Me
 
-[<img align="left" alt="Johannes Milke | Website" width="28px" src="https://cdn-icons-png.flaticon.com/512/975/975645.png?alt=media" />][website]
-[<img align="left" alt="Johannes Milke | YouTube" width="28px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png?alt=media" />][youtube]
-[<img align="left" alt="Johannes Milke | Twitter" width="28px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png?alt=media" />][twitter]
-[<img align="left" alt="Johannes Milke | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png?alt=media" />][linkedin]
+[<img align="left" alt="Siyamul Islam | Website" width="28px" src="https://cdn-icons-png.flaticon.com/512/975/975645.png?alt=media" />][website]
+[<img align="left" alt="Siyamul Islam | YouTube" width="28px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png?alt=media" />][youtube]
+[<img align="left" alt="Siyamul Islam | Twitter" width="28px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png?alt=media" />][twitter]
+[<img align="left" alt="Siyamul Islam | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png?alt=media" />][linkedin]
 
 
 <br />
@@ -40,8 +40,8 @@
 <br />
 
 ### Languages and Tools
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
+[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][blank]
+[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][twitter]
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
 [<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
 
