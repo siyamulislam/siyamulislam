@@ -11,7 +11,7 @@
 - 👯 &ensp;I’m looking to collaborate on **Flutter development**
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 1 years
 - ⚡ &ensp;Fun fact: I love reading & podcasts
-- - 💬 Ask me about **flutter**
+- - 💬 Ask me about **dart & flutter**
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
 
 ### Connect With Me
