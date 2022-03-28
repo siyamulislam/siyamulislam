@@ -1,5 +1,13 @@
 <h1 align="center"> Hi There 👋, I'm <a href="https://www.siyamulislam.blogspot.com">Siyamul Islam!</a></h1>
-<h3 align="center">A Noob programmer who always eager to learn 😜</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&duration=7000&width=750&lines=A+Noob+Programmer...+Who+Always+Eager+To+Learn+😜+...;Now,++I+Am+💻+Working+With+🥰+JavaScript...❤)](https://siyamulislam.blogspot.com/)
+
+<div align="center">
+
+<h2 align="center">
+  <a href="https://github.com/Siam-CSE"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+developer+;API+developer;Frontend+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&color=8000FF&center=true&width=500&height=50"></a>
+</h2>
+  
+</div>
 
 [![Youtube](https://img.shields.io/static/v1?label=SiyamulIslam&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/Siyamul_Islam?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
