@@ -18,11 +18,11 @@
 [![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/siyamul/)][linkedin]
 
 - 🔭 &ensp;I’m currently studyng in B.Sc in CSE!
-- 🌱 &ensp;I’m currently learning Flutter ❤️
-- 👯 &ensp;I’m looking to collaborate on **Flutter development**
+- 🌱 &ensp;I’m currently learning React JS ❤️
+- 👯 &ensp;I’m looking to collaborate on **Web development**
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 1 years
 - ⚡ &ensp;Fun fact: I love reading & podcasts
-- - 💬 Ask me about **dart & flutter**
+- - 💬 Ask me about **React JS & Flutter**
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
 
 ### Connect With Me
