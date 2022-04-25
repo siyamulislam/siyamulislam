@@ -17,7 +17,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/siyamulislam?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/siyamul/)][linkedin]
 
-- 🔭 &ensp;I’m currently studyng in B.Sc in CSE!
+- 🔭 &ensp;I’v completed my B.Sc in CSE at DIU!
 - 🌱 &ensp;I’m currently learning React JS ❤️
 - 👯 &ensp;I’m looking to collaborate on **Web development**
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 1 years
