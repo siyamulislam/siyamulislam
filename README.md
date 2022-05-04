@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=22&duration=7000&width=750&lines=A+Noob+Programmer...+Who+Always+Eager+To+Learn+😜+...;Now,++I+Am+💻+Working+With+🥰+JavaScript...❤)](https://siyamulislam.blogspot.com/)
   
 <h2 align="center">
-  <a href="https://github.com/siyamulislam"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+developer+;API+developer;Frontend+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&color=8000FF&center=true&width=500&height=50"></a>
+  <a href="https://github.com/siyamulislam"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+developer+;API+developer;Frontend+developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&color=8000FF&center=true&width=500&height=50"></a>
 </h2>
   
 </div>
@@ -18,11 +18,11 @@
 [![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/siyamul/)][linkedin]
 
 - 🔭 &ensp;I’v completed my B.Sc in CSE at DIU!
-- 🌱 &ensp;I’m currently learning React JS ❤️
+- 🌱 &ensp;I’m currently learning JavaScript ❤️
 - 👯 &ensp;I’m looking to collaborate on **Web development**
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 1 years
 - ⚡ &ensp;Fun fact: I love reading & podcasts
-- - 💬 Ask me about **React JS & Flutter**
+- - 💬 Ask me about **JavaScript & Flutter**
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
 
 ### Connect With Me
@@ -113,5 +113,3 @@
 </div>
 
 <br>
-
-
