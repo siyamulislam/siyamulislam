@@ -19,7 +19,7 @@
 
 - 🔭 &ensp;I’v completed my B.Sc in CSE at DIU!
 - 🌱 &ensp;I’m currently learning JavaScript ❤️
-- 👯 &ensp;I’m looking to collaborate on **Web development**
+- 👯 &ensp;I’m looking to collaborate on **Android & Web development**
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 1 years
 - ⚡ &ensp;Fun fact: I love reading & podcasts
 - - 💬 Ask me about **JavaScript & Flutter**
