@@ -21,7 +21,7 @@
 - 🌱 &ensp;I’m currently learning JavaScript ❤️
 - 👯 &ensp;I’m looking to collaborate on **Android & Web development**
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 1 years
-- ⚡ &ensp;Fun fact: I love reading & podcasts
+- ⚡ &ensp;Fun fact: I love reading,travelling & gaming
 - - 💬 Ask me about **JavaScript & Flutter**
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
 
