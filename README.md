@@ -48,8 +48,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="xd" width="40" height="40"/> </a> 
-  [<img align="left" alt=“VSCode” width="40px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />][youtube]
+   
   
   
 <!--  <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
