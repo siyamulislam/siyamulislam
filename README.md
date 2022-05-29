@@ -70,7 +70,7 @@
 [<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][twitter]
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][twitter]
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
-[<img align="left" alt=“VSCode” width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />][vscode]
+[<img align="left" alt=“VSCode” width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />][youtube]
 
 <br />
 <br />
