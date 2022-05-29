@@ -1,7 +1,5 @@
 <h1 align="center"> Hi There 👋, I'm <a href="https://www.siyamulislam.blogspot.com">Siyamul Islam!</a></h1>
 
-
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=22&duration=7000&width=750&lines=A+Noob+Programmer...+Who+Always+Eager+To+Learn+😜+...;Now,++I+Am+💻+Working+With+🥰+JavaScript...❤)](https://siyamulislam.blogspot.com/)
@@ -32,10 +30,7 @@
 [<img align="left" alt="Siyamul Islam | Twitter" width="28px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png?alt=media" />][twitter]
 [<img align="left" alt="Siyamul Islam | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png?alt=media" />][linkedin]
 
-
 <br />
-
-
 
 <h3 align="left">Languages and Tools 2:</h3>
 <p align="left"> 
@@ -69,12 +64,6 @@
 </p>
 
 
-
-
-
-
-
-
 <br />
 
 ### Languages and Tools
@@ -82,8 +71,6 @@
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][twitter]
 [<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
 [<img align="left" alt=“Github” width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />][youtube]
-
-
 
 <br />
 <br />
