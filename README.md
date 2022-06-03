@@ -9,7 +9,7 @@
 </h2>
   
   
-  <h1 align="center">  <a href="https://www.siyamulislam.blogspot.com"> Never Give UP! | (｡･(ｴ)･｡)p|｡+ﾟЙёνёг*Giνё*Цp!!+ﾟ｡| | Keep Learning!</a> </h1>
+  <h1 align="center">  <a href="https://www.siyamulislam.blogspot.com"> Never Give UP!  ( ͡° ͜ʖ ͡°)  Keep Learning!</a> </h1>
   
 </div>
 
