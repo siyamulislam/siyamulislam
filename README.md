@@ -16,7 +16,7 @@
 [![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/siyamul/)][linkedin]
 
 - ⚡ &ensp;I’m currently studying M.Sc in Computer Science at Jahangirnagar University!
-- 🔭 &ensp;I’v completed my B.Sc in CSE at Daffodil International Unuversity!
+- 🔭 &ensp;I’v completed B.Sc in CSE at Daffodil International Unuversity!
 - 🌱 &ensp;I’m currently learning JavaScript ❤️
 - 👯 &ensp;I’m looking to collaborate on **Android & Web development**
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 1 years
@@ -62,7 +62,6 @@
   <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
 -->
   
-  
 </p>
 
 
@@ -76,7 +75,6 @@
  -->
 <br />
 <br />
-
 
 [website]: https://siyamulislam.blogspot.com/
 [twitter]: https://twitter.com/Siyamul_Islam
