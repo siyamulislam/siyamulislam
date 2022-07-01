@@ -1,6 +1,8 @@
 <h1 align="center"> Hi There 👋, I'm <a href="https://www.siyamulislam.blogspot.com">Siyamul Islam!</a></h1>
 
 <div align="center">
+
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=22&duration=7000&width=750&lines=A+Noob+Programmer...+Who+Always+Eager+To+Learn+😜+...;Now,++I+Am+💻+Working+With+🥰+JavaScript...❤)](https://siyamulislam.blogspot.com/)
   
