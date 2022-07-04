@@ -65,7 +65,7 @@
 -->
   
 </p>
-<h2> Current Project: Personal Portfolio </h2>
+<h2 style{color:blue;}>Current Project: Personal Portfolio </h2>
 
 <!-- <br />
 
