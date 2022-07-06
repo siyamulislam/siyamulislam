@@ -35,7 +35,7 @@
 
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> 
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="xd" width="40" height="40"/> </a
