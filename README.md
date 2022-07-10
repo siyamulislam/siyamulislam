@@ -25,7 +25,6 @@
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
 
 
-
 ### Connect With Me
 
 [<img align="left" alt="Siyamul Islam | Website" width="28px" src="https://cdn-icons-png.flaticon.com/512/975/975645.png?alt=media" />][website]
@@ -85,7 +84,7 @@
 [linkedin]: https://www.linkedin.com/in/siyamul/
 [github]: https://github.com/siyamulislam
 [instagram]: https://www.instagram.com/siyamulislam
-[facebook]: https://www.facebook.com/siyamulislam.si
+[facebook]: https://www.facebook.com/siyamul.cse
 [medium]: https://medium.com/
 [email]: siyamulislam1@gmail.com
 
