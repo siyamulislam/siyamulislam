@@ -67,7 +67,7 @@ a
 -->
   
 </p>
-<h5 >Current Project: <a href="#">Personal Portfolio 0%</a></h5>
+<h5 >Current Project: <a href="#">Personal Portfolio 10%</a></h5>
 
 <!-- <br />
 
