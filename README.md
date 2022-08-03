@@ -18,7 +18,7 @@
 
 - ⚡ &ensp;I’m currently studying M.Sc in Computer Science at Jahangirnagar University!
 - 🔭 &ensp;I’v completed B.Sc in CSE at Daffodil International Unuversity!
-- ✨ Favorite Tech: JavaScript, React, Typescript, Python ...
+- ✨ Favorite Tech: JavaScript, React, Java, Flutter, Python ...
 - 🌱 &ensp;I’m currently learning learning DS and Algo... 😭
 - 👯 &ensp;I’m looking to collaborate on **Android & Web development**
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 1 years
