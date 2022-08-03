@@ -18,10 +18,10 @@
 
 - ⚡ &ensp;I’m currently studying M.Sc in Computer Science at Jahangirnagar University!
 - 🔭 &ensp;I’v completed B.Sc in CSE at Daffodil International Unuversity!
-- 🌱 &ensp;I’m currently learning JavaScript ❤️
+- 🌱 &ensp;I’m currently learning learning DS and Algo... 😭
 - 👯 &ensp;I’m looking to collaborate on **Android & Web development**
 - 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 1 years
-- ⚡ &ensp;Fun fact: I love reading,travelling & gaming
+- ⚡ &ensp;Fun fact: I love reading,travelling & gaming ❤️
 - - 💬 Ask me about **JavaScript & Flutter**
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
  
