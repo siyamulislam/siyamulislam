@@ -21,7 +21,7 @@
 - ✨ &ensp;Favorite Tech: JavaScript, React, Java, Flutter, Python ...
 - 🌱 &ensp;I’m currently learning DS and Algo... 😭
 - 👯 &ensp;I’m looking to collaborate on **Web development & Data Science**
-- 🗿  &ensp;I am one of the early adopters of Flutter, it has been more than 1.5 years
+- 🗿  &ensp;&ensp;I am one of the early adopters of Flutter, it has been more than 1.5 years
 - ⚡ &ensp;Fun fact: I love reading,travelling & gaming ❤️
 - 💬 &ensp;Ask me about **JavaScript & Flutter**
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
