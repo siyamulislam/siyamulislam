@@ -33,7 +33,6 @@
 [<img align="left" alt="Siyamul Islam | Twitter" width="28px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png?alt=media" />][twitter]
 [<img align="left" alt="Siyamul Islam | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png?alt=media" />][linkedin]
 
-
 <br />
 
 <h4 align="left">Languages and Tools:</h4>
