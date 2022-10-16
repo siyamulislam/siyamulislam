@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=siyamulislam&left_color=darkgrey&left_text=visitors"  />
-</div>
 <h1 align="center"> Hi There 👋, I'm <a href="https://www.siyamulislam.blogspot.com">Siyamul Islam!</a></h1>
 
 <div align="center">
@@ -93,7 +90,9 @@
 [medium]: https://medium.com/
 [email]: siyamulislam1@gmail.com
 
-<br/>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=siyamulislam&left_color=darkgrey&left_text=visitors"  />
+</div>
 
 <div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=siyamulislam&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
@@ -102,8 +101,9 @@
 
 <br/>
 
-<div>
+<div  align="center">
     <img src="https://raw.githubusercontent.com/siyamulislam/siyamulislam/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br>
+
