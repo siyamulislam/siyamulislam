@@ -9,7 +9,9 @@
 </h2>
   <h1 align="center">  <a href="https://www.siyamulislam.blogspot.com"> Never Give Up!  (◕‿◕)  Keep Exploring...</a> </h1>
 </div>
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=siyamulislam&left_color=darkgrey&left_text=visitors"  />
+</div>
 [![Youtube](https://img.shields.io/static/v1?label=SiyamulIslam&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/Siyamul_Islam?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/siyamulislam?logo=GitHub&style=for-the-badge)][github]
