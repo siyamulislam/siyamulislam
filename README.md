@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=siyamulislam&left_color=darkgrey&left_text=visitors"  />
+</div>
 <h1 align="center"> Hi There 👋, I'm <a href="https://www.siyamulislam.blogspot.com">Siyamul Islam!</a></h1>
 
 <div align="center">
@@ -8,9 +11,6 @@
   <a href="https://github.com/siyamulislam"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+;Android+Developer;API+Developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;ICPC+|+BCROEED+|+HACKER_Rank;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&color=8000FF&center=true&width=500&height=50"></a>
 </h2>
   <h1 align="center">  <a href="https://www.siyamulislam.blogspot.com"> Never Give Up!  (◕‿◕)  Keep Exploring...</a> </h1>
-</div>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=siyamulislam&left_color=darkgrey&left_text=visitors"  />
 </div>
 
 [![Youtube](https://img.shields.io/static/v1?label=SiyamulIslam&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
