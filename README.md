@@ -1,5 +1,6 @@
-<h1 align="center"> Hi There 👋, I'm <a href="https://www.siyamulislam.blogspot.com">Siyamul Islam!</a></h1>
-
+<h1 align="center"> Hi There <img src="https://raw.githubusercontent.com/siyamulislam/siyamulislam/main/assets/wave.gif" 
+         alt="Waving hand animated gif" height="40px" width="40px" />, I'm <a href="https://www.siyamulislam.blogspot.com">Siyamul Islam!</a></h1>
+         
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=22&duration=7000&width=750&lines=A+Noob+Programmer...+Who+Always+Eager+To+Learn+😜+...;Now,++I+Am+💻+Working+With+❤+JavaScript🥰...)](https://siyamulislam.blogspot.com/)
@@ -20,7 +21,7 @@
 - ✨ &ensp;Favorite Tech: JavaScript, React, Java, Flutter, PHP, Python..
 - 🌱 &ensp;I’m currently learning DS and Algo... 😭
 - 👯 &ensp;I’m looking to collaborate on **Web development & Data Science**
-- 🗿  &ensp;&ensp;I am one of the early adopters of Flutter, it has been more than 1.5 years
+- 🗿  &ensp;&ensp;I am one of the early adopters of Flutter, it has been more than 1 years
 - ⚡ &ensp;Fun fact: I love reading,travelling & gaming ❤️
 - 💬 &ensp;Ask me about **JavaScript & Flutter**
 - 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
@@ -67,7 +68,7 @@
 -->
   
 </p>
-<h5 >Current Project: <a href="https://github.com/siyamulislam/portfolio">Personal Portfolio 95%</a></h5>
+<h5 >Portfolio Website: <a href="https://siyamulislam.github.io/">Siyamul Islam</a></h5>
 
 <!-- <br />
 
