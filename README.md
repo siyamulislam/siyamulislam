@@ -4,7 +4,9 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=22&duration=7000&width=750&lines=A+Noob+Programmer...+Who+Always+Eager+To+Learn+😜+...;Now,++I+Am+💻+Working+With+❤+JavaScript🥰...)](https://siyamulislam.blogspot.com/)
-  
+         
+
+         
 <h2 align="center">
   <a href="https://github.com/siyamulislam"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+;Android+Developer;API+Developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;ICPC+|+BCROEED+|+HACKER_Rank;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&color=8000FF&center=true&width=500&height=50"></a>
 </h2>
@@ -15,7 +17,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Siyamul_Islam?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/siyamulislam?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: SiyamulIslam ](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/siyamul/)][linkedin]
-
+![Profile views](https://gpvc.arturio.dev/siyamulislam)
 - ⚡ &ensp;I’m currently studying M.Sc in Computer Science at Jahangirnagar University!
 - 🔭 &ensp;I’v completed B.Sc in CSE at Daffodil International Unuversity!
 - ✨ &ensp;Favorite Tech: JavaScript, React, Java, Flutter, PHP, Python..
