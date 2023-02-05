@@ -1,16 +1,16 @@
 <h1 align="center"> Hi There <img src="https://raw.githubusercontent.com/siyamulislam/siyamulislam/main/assets/wave.gif" 
-         alt="Waving hand animated gif" height="40px" width="40px" />, I'm <a href="https://www.siyamulislam.blogspot.com">Siyamul Islam!</a></h1>
+         alt="Waving hand animated gif" height="40px" width="40px" />, I'm <a href="https://www.siyamul.com">Siyamul Islam!</a></h1>
          
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=22&duration=7000&width=750&lines=A+Noob+Programmer...+Who+Always+Eager+To+Learn+😜+...;Now,++I+Am+💻+Working+With+❤+JavaScript🥰...)](https://siyamulislam.blogspot.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=22&duration=7000&width=750&lines=A+Noob+Programmer...+Who+Always+Eager+To+Learn+😜+...;Now,++I+Am+💻+Working+With+❤+JavaScript🥰...)](https://siyamul.com/)
          
 
          
 <h2 align="center">
   <a href="https://github.com/siyamulislam"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+;Android+Developer;API+Developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;ICPC+|+BCROEED+|+HACKER_Rank;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&color=8000FF&center=true&width=500&height=50"></a>
 </h2>
-  <h1 align="center">  <a href="https://www.siyamulislam.blogspot.com"> Never Give Up!  (◕‿◕)  Keep Exploring...</a> </h1>
+  <h1 align="center">  <a href="https://www.siyamul.com"> Never Give Up!  (◕‿◕)  Keep Exploring...</a> </h1>
 </div>
 
 [![Youtube](https://img.shields.io/static/v1?label=SiyamulIslam&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
@@ -70,7 +70,7 @@
 -->
   
 </p>
-<h5 >Portfolio Website: <a href="https://siyamulislam.github.io/">Siyamul Islam</a></h5>
+<h5 >Portfolio Website: <a href="https://siyamul.com/">Siyamul Islam</a></h5>
 
 <!-- <br />
 
@@ -83,7 +83,7 @@
 <br />
 <br />
 
-[website]: https://siyamulislam.blogspot.com/
+[website]: https://siyamul.com/
 [twitter]: https://twitter.com/Siyamul_Islam
 [youtube]: https://www.youtube.com/channel/UCMt9YwW18A2OVRRKbp6kgTA
 [linkedin]: https://www.linkedin.com/in/siyamul/
