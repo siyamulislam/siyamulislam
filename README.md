@@ -5,16 +5,10 @@
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />     
   
   <h2 align="center">  <a href="https://www.siyamul.com"> Never Give Up!  (◕‿◕)  Keep Exploring...</a> </h2>
-
-          
-  <h3 align="center">
-  <a href="https://github.com/siyamulislam"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+;Android+Developer;API+Developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;ICPC+|+BCROEED+|+HACKER_Rank;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&color=8000FF&center=true&width=500&height=50"></a>
-  </h3>
+    
+  <a href="https://www.siyamul.com"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+;Android+Developer;API+Developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;ICPC+|+BCROEED+|+HACKER_Rank;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&color=8000FF&center=true&width=500&height=50"></a>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=22&duration=7000&width=750&lines=A+Noob+Programmer...+Who+Always+Eager+To+Learn+😜+...;Now,++I+Am+💻+Working+With+❤+JavaScript🥰...)](https://siyamul.com/)
-
-
-<h2 ></h2>
 
 </div>
 
