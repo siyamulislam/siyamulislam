@@ -1,16 +1,21 @@
-<h1 align="center"> Hi There <img src="https://raw.githubusercontent.com/siyamulislam/siyamulislam/main/assets/wave.gif" 
-         alt="Waving hand animated gif" height="40px" width="40px" />, I'm <a href="https://www.siyamul.com">Siyamul Islam!</a></h1>
-         
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=22&duration=7000&width=750&lines=A+Noob+Programmer...+Who+Always+Eager+To+Learn+😜+...;Now,++I+Am+💻+Working+With+❤+JavaScript🥰...)](https://siyamul.com/)
-         
+  <h3> 👋 Hi There, I'm <a href="https://www.siyamul.com">Siyamul Islam!</a></h3>    
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />     
+  
+  <h2 align="center">  <a href="https://www.siyamul.com"> Never Give Up!  (◕‿◕)  Keep Exploring...</a> </h2>
 
-         
-<h2 align="center">
+          
+  <h3 align="center">
   <a href="https://github.com/siyamulislam"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+;Android+Developer;API+Developer;user+interface+(UI);user+experience+(UX);Competitive+Programmer;ICPC+|+BCROEED+|+HACKER_Rank;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&color=8000FF&center=true&width=500&height=50"></a>
-</h2>
-  <h1 align="center">  <a href="https://www.siyamul.com"> Never Give Up!  (◕‿◕)  Keep Exploring...</a> </h1>
+  </h3>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=22&duration=7000&width=750&lines=A+Noob+Programmer...+Who+Always+Eager+To+Learn+😜+...;Now,++I+Am+💻+Working+With+❤+JavaScript🥰...)](https://siyamul.com/)
+
+
+<h2 ></h2>
+
 </div>
 
 [![Youtube](https://img.shields.io/static/v1?label=SiyamulIslam&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
@@ -18,6 +23,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/siyamulislam?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: SiyamulIslam ](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/siyamul/)][linkedin]
 ![Profile views](https://gpvc.arturio.dev/siyamulislam)
+
 - ⚡ &ensp;I’m currently studying M.Sc in Computer Science at Jahangirnagar University!
 - 🔭 &ensp;I’v completed B.Sc in CSE at Daffodil International Unuversity!
 - ✨ &ensp;Favorite Tech: JavaScript, React, Java, Flutter, PHP, Python..
@@ -58,28 +64,9 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
   
   
-
-<!--  <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-   <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
--->
-  
 </p>
 <h5 >Portfolio Website: <a href="https://siyamul.com/">Siyamul Islam</a></h5>
 
-<!-- <br />
-
-### Languages and Tools
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][twitter]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][twitter]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
-[<img align="left" alt=“VSCode” width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />][youtube]
- -->
 <br />
 <br />
 
@@ -93,20 +80,28 @@
 [medium]: https://medium.com/
 [email]: siyamulislam1@gmail.com
 
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=siyamulislam&left_color=darkgrey&left_text=visitors"  />
+         
 </div>
+
+
 
 <div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=siyamulislam&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamulislam&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siyamulislam&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=16&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 <br/>
+<br/>
 
 <div  align="center">
-    <img src="https://raw.githubusercontent.com/siyamulislam/siyamulislam/output/github-contribution-grid-snake.svg" />
+<!--     <img src="https://raw.githubusercontent.com/siyamulislam/siyamulislam/output/github-contribution-grid-snake.svg" /> -->
+  <img src="https://raw.githubusercontent.com/siyamulislam/siyamulislam/main/assets/wave.gif"  alt="Waving hand animated gif" height="70px" width="70px" />       
 </div>
 
-<br>
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/siyamulislam/count.svg?"  />
+</div>
