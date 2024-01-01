@@ -1,7 +1,6 @@
 <div align="center">
 
-  <h3> 👋 Hi There, I'm <a href="https://www.siyamul.com">Siyamul Islam!</a></h3>    
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />     
+  <h3> 👋 Hi There, I'm <a href="https://www.siyamul.com">Siyamul Islam!</a></h3>   
 
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=8000FF&random=false&width=435&lines=%F0%9F%8E%93+B.Sc.+in+CSE+DIU+%E2%9C%94;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+M.Sc.+in+CS+JU+%E2%9C%94;%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer+%3C%2F%3E;%F0%9F%93%B1+Mobile+Application+Developer+%3C%2F%3E;%F0%9F%9B%A0%EF%B8%8F+Machine+Learning+Exhaust+%F0%9F%A4%96;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Competitive+Programmer++%3C%2F%3E;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+ICPC+%7C+BCROEED+%7C+HACKER+Rank+%F0%9F%9A%80;%F0%9F%A7%AE+Data+Structure+%2C+Algorithm+%26OOP+%F0%9F%92%94;%F0%9F%A7%A0+Always+Learn+Something+New+%F0%9F%8E%AF)](https://siyamul.com)
