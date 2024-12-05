@@ -21,11 +21,11 @@
 - 🔭 &ensp;I’v completed B.Sc in CSE at Daffodil International Unuversity!
 - ✨ &ensp;Favorite Tech: JavaScript, React, Java, Flutter, PHP, Python..
 - 🌱 &ensp;I’m currently learning DS and Algo... 😭
-- 👯 &ensp;I’m looking to collaborate on **Web development & Data Science**
+- 👯 &ensp;I’m looking to collaborate on **Software development & Data Science**
 - 🗿  &ensp;&ensp;I am one of the early adopters of Flutter, it has been more than 1 years
 - ⚡ &ensp;Fun fact: I love reading,travelling & gaming ❤️
-- 💬 &ensp;Ask me about **JavaScript & Flutter**
-- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
+- 💬 &ensp;Ask me about **JavaScript & Flutter** 
+- 📫 &ensp;How to reach me: [**Linkedin**][linkedin] or [**WEB**][website] 
  
 ### Connect With Me
 
